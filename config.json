@@ -1,0 +1,12 @@
+{
+  "port": 43210,
+  "maxPlayers": 12,
+  "partyName": "🔥 Kailash Custom Server 🔥",
+  "partyIsPublic": true,
+  "sessionType": "teams",
+  "teamNames": ["⚡ Blue Warriors", "🔥 Red Demons"],
+  "playlistCode": "custom_playlist",
+  "statsURL": "",
+  "adminPass": "12345",
+  "enableKickVote": true
+}
