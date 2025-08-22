@@ -1,0 +1,7 @@
+import ba
+
+def on_player_join(player):
+    ba.screenmessage(
+        f"👋 Welcome {player.getname()} to Kailash's Custom Server!",
+        color=(0, 1, 0)
+    )
